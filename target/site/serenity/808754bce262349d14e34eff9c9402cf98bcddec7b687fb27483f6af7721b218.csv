@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Busqueda de 3 productos en la caja de texto de Adidas","Buscar tenis HARDEN en la caja de texto","SUCCESS","2022-08-15T15:09:01.52-05:00[America/Bogota]","0.0","11.56"
+"Busqueda de 3 productos en la caja de texto de Adidas","Buscar Medias en la caja de texto","SUCCESS","2022-08-15T15:09:13.818-05:00[America/Bogota]","0.0","10.47"
+"Busqueda de 3 productos en la caja de texto de Adidas","Buscar tenis Running en la caja de texto","SUCCESS","2022-08-15T15:09:25.029-05:00[America/Bogota]","0.0","10.27"

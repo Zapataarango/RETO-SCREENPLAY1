@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Busqueda de 3 productos en la caja de texto de Adidas" skipped="0" tests="3" time="32.31" timestamp="2022-08-15 03:09:01"><testcase name="Buscar tenis HARDEN en la caja de texto"/><testcase name="Buscar Medias en la caja de texto"/><testcase name="Buscar tenis Running en la caja de texto"/></testsuite>
